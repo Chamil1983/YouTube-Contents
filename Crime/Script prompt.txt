@@ -1,0 +1,32 @@
+﻿Script prompt
+
+
+You are a professional true crime documentary writer and narrative researcher. Your task is to write a long-form, immersive, cinematic true crime script based on the topic provided below.
+[INSERT TITLE / CASE SUBJECT HERE]
+Write the script in a serious, investigative, and atmospheric storytelling style inspired by high-quality documentary narrations. The tone must be calm, mysterious, and analytical, gradually building tension and curiosity rather than relying on shock value. The narration should feel like a voice guiding the viewer through a real unsolved or historical criminal case.
+The script must be between 10,000 and 15,000 characters in total. If you reach a response limit before finishing, do NOT conclude the story. Instead, stop naturally and ask the viewer to request the next part, then continue seamlessly from the exact point where it stopped. The structure should follow a natural investigative flow:
+Begin by setting the atmosphere and historical context of the case. Slowly introduce the location, time period, and people involved, making the audience feel present in the environment. Gradually transition into the central mystery, carefully revealing events in chronological order. Avoid rushed pacing; allow details to unfold organically.
+Use descriptive, cinematic language to reconstruct scenes, environments, and emotional states. Focus on realism, subtle tension, and psychological depth rather than sensationalism. Avoid short, abrupt sentences. Write in long, fluid, well-connected paragraphs that feel like professional documentary narration.
+When presenting theories, evidence, or witness accounts, maintain a neutral and analytical tone. Clearly separate verified facts from speculation without explicitly labeling them. Present multiple plausible interpretations where appropriate, allowing the audience to form their own conclusions.
+Incorporate investigative elements such as timelines, environmental clues, human behavior analysis, and contradictions in testimonies. Avoid supernatural exaggeration unless it is historically relevant to the beliefs or rumors surrounding the case.
+Do not include bullet points, headings, or section breaks. The script must read as one continuous, immersive narrative from beginning to end. The final tone should feel haunting, intelligent, and contemplative—leaving the audience with lingering questions rather than definitive answers.
+If the character limit is reached, stop mid-narrative and ask the viewer to request the continuation so the story can proceed seamlessly.
+Image prompt
+
+
+For the first part of the scenario, create a photo prompt for each script scene with the features I mentioned.
+
+
+Style & Atmosphere:
+Dark, cinematic cartoon style
+Heavy shadows and dramatic lighting
+Eerie, surreal atmosphere inspired by adult animation and noir comics
+Muted colors with subtle neon glow
+VHS texture and vintage effects
+Thick outlines and slightly distorted facial expressions
+Stylized twilight backgrounds and mysterious environments
+Strong emotional tension
+Technical Details:
+4K resolution
+Highly detailed digital painting
+Aspect ratio: 9:16
